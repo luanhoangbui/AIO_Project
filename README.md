@@ -46,11 +46,12 @@ Ensure you have Python installed (preferably Python 3.8 or later). It is recomme
 
 ## 📂 Available Projects
 Here are some of the projects included in this repository:
-- **Project 1**: [Working Safety Monitoring] - Helmet detection using YOLOv10
-- **Project 2**: [Spam Message Classification] - Classification using Naive Bayes
-- **Project 3**: [QA with PDF files] - Build and integrate basic RAG model to Chainlit
-- **Project 4**: [Image retrieval] - Image retrieval using CLIP model
-- **Project 5**: [Sentiment Analysis] - Build and train a model using tree method to classify text
+- **Project 1**: [Working Safety Monitoring] - Helmet detection using YOLOv10.
+- **Project 2**: [Spam Message Classification] - Classification using Naive Bayes.
+- **Project 3**: [QA with PDF files] - Build and integrate basic RAG model to Chainlit.
+- **Project 4**: [Image retrieval] - Image retrieval using CLIP model.
+- **Project 5**: [Sentiment Analysis] - Build and train a model using tree method to classify text.
+- **Project 6**: [Sales Prediction] - Build Linear Regression and Nonlinear Regression for predicting Sales from multi features.
 ## 🛠 Technologies Used
 The projects in this repository utilize the following technologies:
 - Python 🐍
